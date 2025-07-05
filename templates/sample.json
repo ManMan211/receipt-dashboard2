@@ -1,0 +1,14 @@
+{
+  "Tesco": {
+    "items": ["Milk", "Bread", "Eggs", "Orange Juice"],
+    "address": "Tesco Express\n123 High Street\nLondon, UK"
+  },
+  "Amazon": {
+    "items": ["USB Cable", "Wireless Mouse", "HDMI Adapter"],
+    "address": "Amazon EU Sarl\nLuxembourg"
+  },
+  "McDonald's": {
+    "items": ["Big Mac", "Fries", "Coke"],
+    "address": "McDonald's\n456 Burger Lane\nManchester, UK"
+  }
+}
